@@ -45,7 +45,9 @@ The project uses **three interconnected CSV files**, forming a relational struct
 | `Sales.csv` | Transaction-level sales data |
 
 ---
+<img width="1536" height="1024" alt="im" src="https://github.com/user-attachments/assets/3f998f98-1c1f-4c7d-8c56-860f35d0f61b" />
 
+---
 ## 🧾 Feature Descriptions
 
 ### 🚘 **Cars.csv**
@@ -100,7 +102,3 @@ These relationships enable **multi-dimensional analysis** using Python.
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
-
-```python
-print("Data Cleaning & Preprocessing Pipeline")
